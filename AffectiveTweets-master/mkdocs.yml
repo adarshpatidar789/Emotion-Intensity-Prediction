@@ -1,0 +1,11 @@
+site_name: AffectiveTweets
+theme: readthedocs  
+repo_url: https://github.com/felipebravom/AffectiveTweets
+site_description: AffectiveTweets Documentation
+pages:
+    - Home: index.md
+    - Installation: install.md
+    - Examples: examples.md
+    - Videos: videos.md
+    - Contributing: contribute.md
+    - Benchmark: benchmark.md
